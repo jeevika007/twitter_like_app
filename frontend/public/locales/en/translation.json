@@ -1,0 +1,24 @@
+{
+    "welcome_message": "Welcome to our site",
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "forgot_password": "Forgot Password?",
+    "request_new_password": "Request New Password",
+    "logout": "Logout",
+    "create_post": "Create a Post",
+    "post": "Post",
+    "otp_verification": "OTP Verification",
+    "enter_otp": "Enter OTP",
+    "verify": "Verify",
+    "resend_otp": "Resend OTP",
+    "otp_sent_email": "OTP has been sent to your email",
+    "otp_sent_phone": "OTP has been sent to your phone",
+    "invalid_otp": "Invalid OTP. Please try again.",
+    "switch_language": "Switch Language",
+    "language_changed": "Language changed successfully",
+    "payment_restriction": "Payments are allowed only between 10-11 AM IST",
+    "access_restriction": "Access only allowed between 10 AM and 1 PM for mobile users"
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "welcome_message": "欢迎访问我们的网站",
+    "login": "登录",
+    "signup": "注册",
+    "email": "电子邮件",
+    "password": "密码",
+    "forgot_password": "忘记密码？",
+    "request_new_password": "请求新密码",
+    "logout": "登出",
+    "create_post": "创建帖子",
+    "post": "发布",
+    "otp_verification": "OTP 验证",
+    "enter_otp": "输入 OTP",
+    "verify": "验证",
+    "resend_otp": "重新发送 OTP",
+    "otp_sent_email": "OTP 已发送到您的电子邮件",
+    "otp_sent_phone": "OTP 已发送到您的手机",
+    "invalid_otp": "无效的 OTP。请再试一次。",
+    "switch_language": "切换语言",
+    "language_changed": "语言切换成功",
+    "payment_restriction": "仅在 IST 时间上午 10 点至 11 点之间允许支付",
+    "access_restriction": "移动用户仅允许在上午 10 点至下午 1 点之间访问"
+  }
+  

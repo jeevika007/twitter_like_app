@@ -1,0 +1,24 @@
+{
+    "welcome_message": "Bienvenue sur notre site",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "forgot_password": "Mot de passe oublié?",
+    "request_new_password": "Demander un nouveau mot de passe",
+    "logout": "Se déconnecter",
+    "create_post": "Créer un post",
+    "post": "Publier",
+    "otp_verification": "Vérification OTP",
+    "enter_otp": "Entrez l'OTP",
+    "verify": "Vérifier",
+    "resend_otp": "Renvoyer l'OTP",
+    "otp_sent_email": "L'OTP a été envoyé à votre email",
+    "otp_sent_phone": "L'OTP a été envoyé à votre téléphone",
+    "invalid_otp": "OTP invalide. Veuillez réessayer.",
+    "switch_language": "Changer de langue",
+    "language_changed": "Langue changée avec succès",
+    "payment_restriction": "Les paiements sont autorisés uniquement entre 10h et 11h IST",
+    "access_restriction": "Accès autorisé uniquement entre 10h et 13h pour les utilisateurs mobiles"
+  }
+  

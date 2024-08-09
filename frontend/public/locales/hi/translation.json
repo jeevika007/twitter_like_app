@@ -1,0 +1,24 @@
+{
+    "welcome_message": "हमारी साइट पर आपका स्वागत है",
+    "login": "लॉगिन",
+    "signup": "साइन अप करें",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "forgot_password": "पासवर्ड भूल गए?",
+    "request_new_password": "नया पासवर्ड अनुरोध करें",
+    "logout": "लॉगआउट",
+    "create_post": "एक पोस्ट बनाएं",
+    "post": "पोस्ट करें",
+    "otp_verification": "OTP सत्यापन",
+    "enter_otp": "OTP दर्ज करें",
+    "verify": "सत्यापित करें",
+    "resend_otp": "OTP पुनः भेजें",
+    "otp_sent_email": "OTP आपके ईमेल पर भेजा गया है",
+    "otp_sent_phone": "OTP आपके फोन पर भेजा गया है",
+    "invalid_otp": "अमान्य OTP। कृपया पुनः प्रयास करें।",
+    "switch_language": "भाषा बदलें",
+    "language_changed": "भाषा सफलतापूर्वक बदली गई",
+    "payment_restriction": "भुगतान केवल सुबह 10-11 बजे IST के बीच की अनुमति है",
+    "access_restriction": "मोबाइल उपयोगकर्ताओं के लिए केवल सुबह 10 बजे से दोपहर 1 बजे तक ही पहुंच की अनुमति है"
+  }
+  
